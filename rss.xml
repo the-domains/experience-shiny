@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Experience Shiny]]></title>
         <description><![CDATA[Experience Shiny]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/experience-shiny/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 20:09:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 01 Feb 2016 20:23:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/experience-shiny/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Relax, revive, and reset your tastebuds and cooking skills on the coast of northern California during a luxurious introduction to a whole foods, plant based lifestyle.  We'll meet up in the kitchen twice a day for 3 hours to prepare wholesome and delicious meals, and learn the fundamentals of a healthy diet, while exploring yummy variations of the freshest local produce and ocean harvest.  There will be time each day to explore Mendocino, the beach, river, and trails, or just nap and read in the lodge!  Each participant will map out a plan to continue living with the new healthy habits and recipes they learn during this epicurean epiphany!</p>]]></description>
+            <link>https://thegrid.ai/experience-shiny/3f3bb427-f3ec-455b-a6f6-360573ef3a7b/index.html</link>
+            <guid isPermaLink="false">3f3bb427-f3ec-455b-a6f6-360573ef3a7b</guid>
+            <pubDate>Mon, 01 Feb 2016 20:11:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Albion]]></title>
-            <description><![CDATA[<article><h1>Albion</h1><p>Albion is for foodies and beachy adventures!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de2bad4ee2cfa91a6c26fb2ea3ecf9bad1f0d747.jpg"></article>]]></description>
-            <link>undefinedalbion/index.html</link>
+            <description><![CDATA[<article><h1>Albion</h1><p>Albion is for foodies and beachy adventures!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/060a5278335e7aa14484df7efd26964c2e048477.jpg"></article>]]></description>
+            <link>https://thegrid.ai/experience-shiny/albion/index.html</link>
             <guid isPermaLink="false">e567ab53-2508-4d85-9248-01a22df8f626</guid>
             <pubDate>Mon, 01 Feb 2016 20:09:31 GMT</pubDate>
         </item>
